@@ -1,0 +1,145 @@
+[0m2021.07.17 04:05:12 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity' for client Visual Studio Code 1.58.1.[0m
+[0m2021.07.17 04:05:15 INFO  time: initialize in 2.75s[0m
+[0m2021.07.17 04:05:17 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.17 04:05:17 WARN  no build tool detected in workspace 'C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.17 04:05:17 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:05:27 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.17 04:05:29 INFO  time: code lens generation in 4.41s[0m
+[0m2021.07.17 04:05:29 INFO  time: code lens generation in 12s[0m
+Jul 17, 2021 4:05:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+[0m2021.07.17 04:05:30 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Addition.scala[0m
+[0m2021.07.17 04:07:17 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+Jul 17, 2021 4:07:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+[0m2021.07.17 04:07:49 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Seq.scala[0m
+Jul 17, 2021 4:07:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+[0m2021.07.17 04:09:18 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:12:49 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:17:16 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:17:27 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:18:19 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:18:52 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:19:33 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:21:31 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:22:09 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:23:04 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:23:18 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:23:45 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:24:16 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:33:40 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:37:24 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:46:10 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:46:26 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:46:26 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:49:20 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:50:43 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:50:56 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:51:53 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:52:03 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 04:52:45 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 04:53:19 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Addition.scala[0m
+[0m2021.07.17 04:53:54 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Addition.scala[0m
+[0m2021.07.17 04:54:31 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+Jul 17, 2021 4:55:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2658
+[0m2021.07.17 04:55:18 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+Jul 17, 2021 4:55:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2664
+[0m2021.07.17 04:55:21 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Addition.scala[0m
+Jul 17, 2021 4:55:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2670
+[0m2021.07.17 04:55:23 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+[0m2021.07.17 04:55:45 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+[0m2021.07.17 04:56:21 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:56:43 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:57:21 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:57:46 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:58:10 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 04:58:42 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+Jul 17, 2021 4:58:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2929
+[0m2021.07.17 04:58:44 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Addition.scala[0m
+Jul 17, 2021 4:58:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2935
+[0m2021.07.17 04:58:52 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+Jul 17, 2021 4:58:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2940
+[0m2021.07.17 04:59:01 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Number.scala[0m
+[0m2021.07.17 04:59:25 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Number.scala[0m
+[0m2021.07.17 05:00:06 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Number.scala[0m
+[0m2021.07.17 05:00:28 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Seq.scala[0m
+[0m2021.07.17 05:02:02 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Addition.scala[0m
+Jul 17, 2021 5:02:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3106
+[0m2021.07.17 05:02:32 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Seq.scala[0m
+[0m2021.07.17 05:02:36 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Seq.scala[0m
+[0m2021.07.17 05:03:14 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Seq.scala[0m
+[0m2021.07.17 05:03:53 INFO  shutting down Metals[0m
+[0m2021.07.17 05:13:28 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity' for client Visual Studio Code 1.58.2.[0m
+[0m2021.07.17 05:13:30 INFO  time: initialize in 2.03s[0m
+[0m2021.07.17 05:13:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.17 05:13:30 WARN  no build tool detected in workspace 'C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.17 05:13:30 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Prime_Seq.scala[0m
+[0m2021.07.17 05:13:30 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:13:32 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:13:34 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:13:36 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.17 05:13:39 INFO  time: code lens generation in 8.26s[0m
+[0m2021.07.17 05:14:02 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:14:28 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:14:29 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:14:43 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:14:58 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:18:49 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:19:10 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:21:50 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:23:26 ERROR text document: file:///c:/Users/Sathya/OneDrive/Desktop/Recursive_Activity/Fibonacci.scala
+java.nio.file.NoSuchFileException: c:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.nio.file.Files.newByteChannel(Files.java:375)
+	at java.nio.file.Files.newByteChannel(Files.java:426)
+	at java.nio.file.Files.readAllBytes(Files.java:3272)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:77)
+	at java.util.HashMap.compute(HashMap.java:1320)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2732)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:76)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1507)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1505)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.lang.Thread.run(Thread.java:832)
+[0m
+[0m2021.07.17 05:23:53 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:25:16 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 05:25:31 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 05:25:38 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 05:25:50 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 05:26:21 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 05:26:59 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\AddEven.scala[0m
+[0m2021.07.17 05:27:20 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:28:15 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Fibonacci.scala[0m
+[0m2021.07.17 05:31:46 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+Jul 17, 2021 5:32:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 559
+[0m2021.07.17 05:36:21 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+[0m2021.07.17 05:36:56 WARN  no build target for: C:\Users\Sathya\OneDrive\Desktop\Recursive_Activity\Even_Or_Odd.scala[0m
+[0m2021.07.17 05:38:42 INFO  shutting down Metals[0m
